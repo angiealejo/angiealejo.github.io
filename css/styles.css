@@ -15,24 +15,29 @@ body {
     color: #F8F9EC;
 }
 .angie-story {
-    padding: 2.5rem 0 4.5rem
+    padding: 1rem 0 4.5rem
 }
 .angie-avatar {
-    padding: 2.5rem 0 4.5rem;
+    padding: 1rem 0 4.5rem;
+    display:block;
+    margin:auto;
 }
 .angie-avatar1 {
     border-radius: 50%;
     -moz-border-radius: 50%;
     -webkit-border-radius: 50%;
     -khtml-border-radius: 50%;
-    margin: 0 auto;
-    display: inline-block;
 }
 .angie-avatar2 {
     border-radius: 200px 200px 200px 200px;
     -moz-border-radius: 200px 200px 200px 200px;
     -webkit-border-radius: 200px 200px 200px 200px;
     border: 2px solid #000000;
+    /* Making image smaller and centered */
+    width:200px;
+    height:200px;
+    display:block;
+    margin:auto;
 }
 .footer-right {
     background-color: white;
