@@ -1,0 +1,40 @@
+body {
+    background-color: white;
+    font-family: 'Titillium Web', sans-serif;
+    color: #5f5f5f;
+    overflow-x: hidden;
+}
+.angie-header {
+    background: #2B7982;
+    overflow: visible;
+    padding: 2.5rem 0 4.5rem;
+    position: relative;
+    text-align: center;
+}
+.angie-title {
+    color: #F8F9EC;
+}
+.angie-story {
+    padding: 2.5rem 0 4.5rem
+}
+.angie-avatar {
+    padding: 2.5rem 0 4.5rem;
+}
+.angie-avatar1 {
+    border-radius: 50%;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -khtml-border-radius: 50%;
+    margin: 0 auto;
+    display: inline-block;
+}
+.angie-avatar2 {
+    border-radius: 200px 200px 200px 200px;
+    -moz-border-radius: 200px 200px 200px 200px;
+    -webkit-border-radius: 200px 200px 200px 200px;
+    border: 2px solid #000000;
+}
+.footer-right {
+    background-color: white;
+    float: right;
+}
